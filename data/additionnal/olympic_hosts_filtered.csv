@@ -1,4 +1,45 @@
 Type,Country,City,Year
+summergames,Greece,Athens ,1896
+summergames,France,Paris ,1900
+summergames,United States of America,St Louis ,1904
+summergames,Great Britain,London ,1908
+summergames,Sweden,Stockholm ,1912
+summergames,Belgium,Antwerp ,1920
+wintergames,France,Chamonix ,1924
+summergames,France,Paris ,1924
+wintergames,Switzerland,St. Moritz ,1928
+summergames,Netherlands,Amsterdam ,1928
+summergames,United States of America,Los Angeles ,1932
+wintergames,United States of America,Lake Placid ,1932
+wintergames,Germany,Garmisch-Partenkirchen ,1936
+summergames,Germany,Berlin ,1936
+summergames,Great Britain,London ,1948
+wintergames,Switzerland,St. Moritz ,1948
+summergames,Finland,Helsinki ,1952
+wintergames,Norway,Oslo ,1952
+summergames,"Australia, Sweden",Melbourne - Stockholm ,1956
+wintergames,Italy,Cortina d'Ampezzo ,1956
+wintergames,United States of America,Squaw Valley ,1960
+summergames,Italy,Rome ,1960
+wintergames,Austria,Innsbruck ,1964
+summergames,Japan,Tokyo ,1964
+wintergames,France,Grenoble ,1968
+summergames,Mexico,Mexico ,1968
+wintergames,Japan,Sapporo ,1972
+summergames,Germany,Munich ,1972
+summergames,Canada,Montreal ,1976
+wintergames,Austria,Innsbruck ,1976
+summergames,USSR,Moscow ,1980
+wintergames,United States of America,Lake Placid ,1980
+wintergames,Yugoslavia,Sarajevo ,1984
+summergames,United States of America,Los Angeles ,1984
+summergames,Republic of Korea,Seoul ,1988
+wintergames,Canada,Calgary ,1988
+wintergames,France,Albertville ,1992
+summergames,Spain,Barcelona ,1992
+wintergames,Norway,Lillehammer ,1994
+summergames,United States of America,Atlanta ,1996
+wintergames,Japan,Nagano ,1998
 summergames,Australia,Sydney ,2000
 wintergames,United States of America,Salt Lake City ,2002
 summergames,Greece,Athens ,2004
@@ -12,3 +53,5 @@ wintergames,Republic of Korea,PyeongChang ,2018
 summergames,Japan,Tokyo ,2020
 wintergames,People's Republic of China,Beijing ,2022
 summergames,France,Paris ,2024
+wintergames,Italy,Milano Cortina ,2026
+summergames,United States of America,LA ,2028
