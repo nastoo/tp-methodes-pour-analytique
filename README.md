@@ -1,6 +1,6 @@
 # Analyse des Jeux Olympiques d'été 2024 : Modélisation de la Prédiction des Médailles
 
-## IntroductionIntroduction
+## Introduction
 Bienvenue dans le cadre de ce travail pratique où nous explorerons et développerons un modèle de prédiction du nombre total de médailles que chaque pays inscrit pourrait remporter aux Jeux Olympiques d'été 2024 à Paris. Notre point de départ pour cette tâche sera le jeu de données "120 years of Olympic history: athletes and results". 
 
 ## Tâches à Effectuer
