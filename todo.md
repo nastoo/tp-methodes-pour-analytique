@@ -5,3 +5,11 @@
 - Quoi à propos des demi finales ?  
 - Valeurs uniques par médaille et par année ? 
 - Prolonger le rendu 
+
+
+
+
+- Calculer nombre athlete par année/pays
+- PIB par Habitant et GDP par habitant pour chaque ligne du data frame
+- Pays hôte 
+- H/F
