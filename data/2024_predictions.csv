@@ -1,11 +1,11 @@
 ,Country,Predictions
 0,United States,152
 1,China,93
-2,France,75
+2,France,76
 3,Germany,58
 4,Australia,49
 5,United Kingdom,48
-6,Japan,42
+6,Japan,43
 7,Spain,38
 8,Netherlands,26
 9,Italy,26
@@ -13,12 +13,12 @@
 11,New Zealand,23
 12,Brazil,22
 13,Hungary,13
-14,South Africa,13
-15,Ukraine,13
+14,Ukraine,13
+15,South Africa,12
 16,Ireland,12
 17,Egypt,11
 18,Serbia,11
-19,Belgium,11
+19,Belgium,10
 20,"Korea, South",10
 21,Kenya,9
 22,Argentina,9
@@ -65,90 +65,90 @@
 63,Georgia,1
 64,South Sudan,1
 65,Montenegro,1
-66,Slovakia,1
-67,Uganda,1
-68,Bermuda,1
-69,Samoa,1
-70,Paraguay,1
-71,Chile,1
-72,Hong Kong,1
-73,Puerto Rico,1
-74,Finland,1
-75,Peru,1
-76,Gambia,0
-77,Niger,0
-78,Andorra,0
-79,Zimbabwe,0
-80,Virgin Islands,0
-81,Syria,0
-82,Saint Lucia,0
-83,"Palestine, Occupied Territories",0
-84,Papua New Guinea,0
-85,Namibia,0
-86,Mozambique,0
-87,Barbados,0
-88,Lebanon,0
-89,Guinea-Bissau,0
-90,Guam,0
+66,Uganda,1
+67,Bermuda,1
+68,Samoa,1
+69,Chile,1
+70,Finland,1
+71,Peru,1
+72,Paraguay,1
+73,Hong Kong,1
+74,Puerto Rico,1
+75,Zimbabwe,0
+76,Virgin Islands,0
+77,Syria,0
+78,Saint Lucia,0
+79,"Palestine, Occupied Territories",0
+80,Papua New Guinea,0
+81,Niger,0
+82,Namibia,0
+83,Lebanon,0
+84,Mozambique,0
+85,Antigua and Barbuda,0
+86,Guinea-Bissau,0
+87,Guam,0
+88,Grenada,0
+89,Cayman Islands,0
+90,Gambia,0
 91,Chad,0
-92,Grenada,0
-93,Antigua and Barbuda,0
-94,British Virgin Islands,0
-95,Bolivia,0
-96,Bosnia and Herzegovina,0
-97,Monaco,0
+92,Andorra,0
+93,British Virgin Islands,0
+94,Barbados,0
+95,Iraq,0
+96,Monaco,0
+97,Marshall Islands,0
 98,Togo,0
-99,Marshall Islands,0
-100,Madagascar,0
-101,Libya,0
-102,Liberia,0
-103,Lesotho,0
-104,Iceland,0
-105,Honduras,0
-106,Gabon,0
-107,Dominica,0
-108,Djibouti,0
-109,"Congo, Dem Rep",0
-110,Cameroon,0
-111,Saint Vincent and the Grenadines,0
-112,Iraq,0
+99,Madagascar,0
+100,Libya,0
+101,Liberia,0
+102,Lesotho,0
+103,Honduras,0
+104,Bolivia,0
+105,Gabon,0
+106,Dominica,0
+107,Djibouti,0
+108,"Congo, Dem Rep",0
+109,Cameroon,0
+110,Saint Vincent and the Grenadines,0
+111,Bosnia and Herzegovina,0
+112,Iceland,0
 113,Mongolia,0
-114,Cayman Islands,0
-115,Estonia,0
-116,Jordan,0
-117,Eritrea,0
-118,Qatar,0
-119,"Korea, North",0
-120,Cote d'Ivoire,0
-121,Philippines,0
-122,Malaysia,0
-123,Moldova,0
-124,Vietnam,0
-125,Latvia,0
-126,Guatemala,0
-127,Armenia,0
-128,Bahrain,0
+114,Albania,0
+115,Moldova,0
+116,Eritrea,0
+117,Qatar,0
+118,"Korea, North",0
+119,Cote d'Ivoire,0
+120,Philippines,0
+121,Malaysia,0
+122,Estonia,0
+123,Latvia,0
+124,Luxembourg,0
+125,Guatemala,0
+126,Armenia,0
+127,Bahrain,0
+128,Slovakia,0
 129,Mali,0
 130,Zambia,0
 131,Angola,0
-132,Luxembourg,0
-133,Botswana,0
-134,Albania,0
-135,Trinidad and Tobago,0
-136,Rwanda,0
-137,Cyprus,0
-138,Costa Rica,0
-139,Bahamas,0
-140,Aruba,0
-141,United Arab Emirates,0
-142,Tanzania,0
-143,Tajikistan,0
-144,Burkina Faso,0
-145,Suriname,0
-146,Senegal,0
-147,Saudi Arabia,0
-148,Panama,0
-149,Pakistan,0
-150,Mauritius,0
-151,Kyrgyzstan,0
+132,Jordan,0
+133,Vietnam,0
+134,Rwanda,0
+135,Tajikistan,0
+136,Cyprus,0
+137,Costa Rica,0
+138,Bahamas,0
+139,Aruba,0
+140,United Arab Emirates,0
+141,Tanzania,0
+142,Trinidad and Tobago,0
+143,Suriname,0
+144,Botswana,0
+145,Senegal,0
+146,Saudi Arabia,0
+147,Panama,0
+148,Pakistan,0
+149,Mauritius,0
+150,Kyrgyzstan,0
+151,Burkina Faso,0
 152,Turkmenistan,0
